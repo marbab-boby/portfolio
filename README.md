@@ -69,36 +69,36 @@ Pakistan Meteorological Department (PMD) | 2022
 
 ## 🚀 Projects
 
-### 🔥 [US Wildfires Web GIS (2005–2020)](https://github.com/arbab-boby/us-wildfires-web-gis)
-*QGIS, GeoServer, Leaflet, GeoJSON, MODIS NDVI* · [Live map](https://arbab-boby.github.io/us-wildfires-web-gis/)  
+### 🔥 [US Wildfires Web GIS (2005–2020)](https://github.com/marbab-boby/us-wildfires-web-gis)
+*QGIS, GeoServer, Leaflet, GeoJSON, MODIS NDVI* · [Live map](https://marbab-boby.github.io/us-wildfires-web-gis/)  
 - Mapped 4,100+ US wildfires as weighted heatmaps alongside MODIS NDVI  
 - Published them three ways: QGIS, a GeoServer web map and a live Leaflet/GeoJSON web app with a year slider  
 
-### 🌳 [Vegetation Change in Islamabad, 1990 vs 2020](https://github.com/arbab-boby/islamabad-ndvi-change-1990-2020)
+### 🌳 [Vegetation Change in Islamabad, 1990 vs 2020](https://github.com/marbab-boby/islamabad-ndvi-change-1990-2020)
 *R, Landsat 5/8, NDVI*  
 - Clipped and masked Landsat imagery to the ICT boundary and computed NDVI and difference maps  
 - Quantified vegetated area growing from 203 km² to 624 km²  
 
-### 🌍 [Climate Extremes at Kakul Station (1960–2013)](https://github.com/arbab-boby/kakul-climate-extremes)
+### 🌍 [Climate Extremes at Kakul Station (1960–2013)](https://github.com/marbab-boby/kakul-climate-extremes)
 *R, RClimDex, ETCCDI indices*  
 - Computed 32 ETCCDI climate-extreme indices from 54 years of daily station records  
 - Tested their trends for significance and assessed implications for local agriculture  
 
-### 🧰 [Windows Automation Toolkit](https://github.com/arbab-boby/windows-tools)
+### 🧰 [Windows Automation Toolkit](https://github.com/marbab-boby/windows-tools)
 *PowerShell, Batch, FFmpeg, Ghostscript, Python*  
 - Built and open-sourced (MIT) 8 no-install utilities for office workflows  
 - Batch rename with undo, duplicate file detection (SHA-256), Excel folder reports, file-size reduction, photo-to-video slideshows, PowerPoint slide and media export, and script-to-voice-over with subtitles  
 
-### 🛰️ [Comparison of 3D Photogrammetry & NeRF Models (Final Year Project)](https://github.com/arbab-boby/photogrammetry-vs-nerf-ar-navigation)
+### 🛰️ [Comparison of 3D Photogrammetry & NeRF Models (Final Year Project)](https://github.com/marbab-boby/photogrammetry-vs-nerf-ar-navigation)
 *Photogrammetry, NeRF*  
 - Compared 3D reconstruction quality and performance of both approaches for AR/VR navigation  
 
-### 🌀 [South Asian Monsoon Circulation: Summer vs Winter](https://github.com/arbab-boby/south-asia-monsoon-circulation)
+### 🌀 [South Asian Monsoon Circulation: Summer vs Winter](https://github.com/marbab-boby/south-asia-monsoon-circulation)
 *GrADS, ERA reanalysis*  
 - Produced temperature, wind and geopotential-height maps at 1000 and 500 hPa  
 - Analysed the seasonal monsoon reversal and the Tibetan High  
 
-### 📐 [Vector Calculus in MATLAB](https://github.com/arbab-boby/matlab-vector-calculus)
+### 📐 [Vector Calculus in MATLAB](https://github.com/marbab-boby/matlab-vector-calculus)
 *MATLAB, Symbolic Math*  
 - Scripts that compute and visualise gradient, divergence and curl of vector fields  
 - Includes an electric-field model of a charged spherical shell  
@@ -170,9 +170,8 @@ Pakistan Meteorological Department (PMD) | 2022
 
 ## 📫 Contact Me
 - 📧 Email: arbabtahir7865@gmail.com  
-- 📱 Phone: +92-308-7346508  
 - 🔗 LinkedIn: [linkedin.com/in/marbab-boby](https://www.linkedin.com/in/marbab-boby)  
-- 💻 GitHub: [github.com/arbab-boby](https://github.com/arbab-boby)  
+- 💻 GitHub: [github.com/marbab-boby](https://github.com/marbab-boby)  
 
 ---
 
